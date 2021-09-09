@@ -15,6 +15,9 @@
             <b-navbar-item href="#/contato">
                 Contato
             </b-navbar-item>
+            <b-navbar-item href="#/cadastro">
+                Cadastro
+            </b-navbar-item>
         </template>
     </b-navbar>
     

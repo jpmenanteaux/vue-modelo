@@ -3,8 +3,9 @@ import VueRouter from 'vue-router';
 
 import Home from '@/views/home.vue';
 import Contato from '@/views/contato.vue';
-
+import Cadastro from '@/views/cadastro.vue';
 const routes = [
+
     {
         path: '/',
         name: 'Home',
@@ -15,6 +16,12 @@ const routes = [
         path: '/contato',
         name: 'Contato',
         component: Contato,
+        meta: {  }
+    },
+    {
+        path: '/cadastro',
+        name: 'Cadastro',
+        component: Cadastro,
         meta: {  }
     }
 ]
