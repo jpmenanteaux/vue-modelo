@@ -10,7 +10,7 @@
         </template>
         <template #start>
             <b-navbar-item href="#/">
-                Home
+                Página Inicial
             </b-navbar-item>
             <b-navbar-item href="#/contato">
                 Contato

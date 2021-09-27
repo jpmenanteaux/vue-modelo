@@ -1,6 +1,6 @@
 <template>
     <section class="section">
-        <h1 class="title">Cadastro - Produtor</h1>
+        <h1 class="title">Cadastro - Representante</h1>
 
         <section>
         <b-field label="Nome">
